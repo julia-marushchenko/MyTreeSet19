@@ -51,5 +51,9 @@ public class Main {
         } else {
             System.out.println("No");
         }
+
+        // Clear.
+        mySet.clear();
+        
     }
 }
